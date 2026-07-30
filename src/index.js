@@ -1,9 +1,9 @@
 let herois = [
-    {nome: "Kratos Goat", xp: 12000 },
-    {nome: "Joel Miller", xp: 4000 },
-    {nome: "Arthur Morgan", xp: 8000 },
-    {nome: "Nathan Drake", xp: 7000 },
-    {nome: "Peter Parker", xp: 9000 },
+    { nome: "Kratos Goat", xp: 12000 },
+    { nome: "Joel Miller", xp: 4000 },
+    { nome: "Arthur Morgan", xp: 8000 },
+    { nome: "Nathan Drake", xp: 7000 },
+    { nome: "Peter Parker", xp: 9000 },
 ];
 
 for (let i = 0; i < herois.length; i++) {

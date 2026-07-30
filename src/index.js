@@ -30,5 +30,5 @@ for (let i = 0; i < herois.length; i++) {
         nivel = "Radiante";
     }
 
-    console.log("O Herói de nome " + nomeHeroi + " possui " + xp + " de experiência e está classificado como " + nivel + ".");
+    console.log("O Herói do nome " + nomeHeroi + " possui " + xp + " de experiência e está classificado como " + nivel + ".");
 }
